@@ -1,0 +1,71 @@
+img.frame-1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 60px solid;
+  padding: 2px;
+  border-image: url(../../img/frames/frame-1.jpg) 30% round;
+  -webkit-border-image: url(../../img/frames/frame-1.jpg) 30% round; /* Safari 3.1-5 */
+  -o-border-image: url(../../img/frames/frame-1.jpg) 30% round; /* Opera 11-12.1 */
+}
+
+img.frame-2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 60px solid;
+  padding: 2px;
+  border-image: url(../../img/frames/frame-2.jpg) 30% round;
+  -webkit-border-image: url(../../img/frames/frame-2.jpg) 30% round; /* Safari 3.1-5 */
+  -o-border-image: url(../../img/frames/frame-2.jpg) 30% round; /* Opera 11-12.1 */
+}
+
+img.frame-3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 60px solid;
+  padding: 2px;
+  border-image: url(../../img/frames/frame-3.png) 30% round;
+  -webkit-border-image: url(../../img/frames/frame-3.png) 30% round; /* Safari 3.1-5 */
+  -o-border-image: url(../../img/frames/frame-3.png) 30% round; /* Opera 11-12.1 */
+}
+
+img.frame-4 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 60px solid;
+  padding: 2px;
+  border-image: url(../../img/frames/frame-4.png) 30% round;
+  -webkit-border-image: url(../../img/frames/frame-4.png) 30% round; /* Safari 3.1-5 */
+  -o-border-image: url(../../img/frames/frame-4.png) 30% round; /* Opera 11-12.1 */
+}
+
+img.frame-5 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 60px solid;
+  padding: 2px;
+  border-image: url(../../img/frames/frame-5.png) 30% round;
+  -webkit-border-image: url(../../img/frames/frame-5.png) 30% round; /* Safari 3.1-5 */
+  -o-border-image: url(../../img/frames/frame-5.png) 30% round; /* Opera 11-12.1 */
+}
+
+img.frame-6 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 60px solid;
+  padding: 2px;
+  border-image: url(../../img/frames/frame-6.png) 30% round;
+  -webkit-border-image: url(../../img/frames/frame-6.png) 30% round; /* Safari 3.1-5 */
+  -o-border-image: url(../../img/frames/frame-6.png) 30% round; /* Opera 11-12.1 */
+}
